@@ -1,158 +1,83 @@
 ---
 layout: default
 title: Questions and Answers
-parent: Frequently Asked Questions
+parent: Questioni piu' chieste
 nav_order: 1
 ---
 
 # Questions and Answers
 
-Here, community members can find answers to frequently asked questions.
+Qua, potrete trovare le domande con le risposte.
 
-### I am currently a Customer. How can I get a job at BloxStreet?
+### Sono un membro, come faccio a diventare uno staff?
 {: .text-red-300 }
 {: .no_toc }
-In order to work at BloxStreet, visit the [Quiz Center](https://www.roblox.com/games/652098479/Quiz-Center) and pass the quiz. Doing so will rank you to Trainee Team Member, the first LR rank.
+Per diventare uno staff in Italian Entertainment, aspetta i bandi nel canale dei bandi.
 
-### I am currently a Trainee, Junior, or Senior Team Member. How can I receive a promotion?
+### Sono un Trial Staff+, come faccio ad essere promosso?
 {: .text-red-300 }
 {: .no_toc }
-Trainee, Junior, and Senior Team Members must attend training sessions to rank up. More information regarding promotions for these ranks can be found [here](https://support.bloxstreet.store/staff-information/staff-promotions.html#trainee-team-member-senior-team-member).
+Devi essere attivo almeno 90 minuti a settimana, dare aiuto a gli altri e avere Hyra.
 
-### I am currently a Management Intern, Team Leader, Store Supervisor, or Assistant Manager. How can I receive a promotion?
+
+### Sono un Admin, come faccio ad essere promosso?
 {: .text-red-300 }
 {: .no_toc }
-Management Interns, Team Leaders, Store Supervisors, and Assistant Managers must attend shifts to rank up. More information regarding promotions for these ranks can be found [here](https://support.bloxstreet.store/staff-information/staff-promotions.html#management-intern-assistant-manager).
+Admin e' il rank piu' alto che si puo' avere, significa che non puoi essere promosso.
 
-### I am currently a Store Manager. How can I receive a promotion?
+### Come faccio a vedere il mio cooldown?
 {: .text-red-300 }
 {: .no_toc }
-More information about promotions for Store Managers can be found [here](https://support.bloxstreet.store/staff-information/staff-promotions.html#store-manager-store-executive).
+Per vedere il tuo cooldown, vai nel canale promozioni (solo per lo staff).
 
-### How can I check the number of days I have remaining until my promotion cooldown ends? 
+
+### Come faccio ad evere il motivo del mio derank?
 {: .text-red-300 }
 {: .no_toc }
-In order to check the number of days you have remaining until your promotion cooldown ends, ping or DM an available HR through the communications server.
+Per vederlo, contatta un altro staff.
 
-### When are shifts and training sessions hosted? 
+
+### Come faccio ad andare nella staff room?
 {: .text-red-300 }
 {: .no_toc }
-The training and shift schedule can be found in the in-game staff room or through the communications server. More information about shift and training session times can be found [here](https://support.bloxstreet.store/staff-information/shift-training-times.html).
+Per andare nella staff room, scrivi **/staffroom** in chat.
 
-### What are shifts?
+### Come faccio a nascondere i miei comandi?
 {: .text-red-300 }
 {: .no_toc }
-Shifts are opportunities for Management Interns, Team Leaders, Store Supervisors, and Assistant Managers to receive a promotion. Shifts are also an opportunity for guests to visit the store and have an enjoyable experience at BloxStreet. Shift hosts are responsible for going around the store, checking for detailed greetings and proper grammar, and promoting players who exceed their expectations. During a shift, all staff members should be working at a station in the store.
+Per nascondere i comandi da gli altri, metti **/e** prima del comando o premi **'** sulla tua tastiera per aprire la console.
 
-### How can I check my demotion reason?
-{: .text-red-300 }
-{: .no_toc }
-If you were demoted and would like to see why, DM an available HR. If you have any questions or concerns regarding your demotion, feel free to open a ticket. 
-
-### Which ranks are permitted to train, host, co-host, and rank at training sessions? 
-{: .text-red-300 }
-{: .no_toc }
-Store Manager+ may train at training sessions. Board of Directors+ may host and co-host training sessions. Executive Assistant+ may host training sessions by themselves. Executive Assistant+ may rank.
-
-### How can I earn points? 
-{: .text-red-300 }
-{: .no_toc }
-Players can earn one point for each successful restock and two points for each spill cleaned. Management Intern+ do not have the ability to earn points through registers at the moment. 
-
-### What happens if a player is violating an in-game rule?
-{: .text-red-300 }
-{: .no_toc }
-In order to learn more about BloxStreet’s punishments, we encourage you to read our [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html).
-
-### What are BloxStreet’s rules on uniforms?
-{: .text-red-300 }
-{: .no_toc }
-In order to learn more about BloxStreet’s uniform policies, we encourage you to visit [Staff Regulations](https://support.bloxstreet.store/staff-information/staff-regulations.html).
-
-### How do I work at each store department?
-{: .text-red-300 }
-{: .no_toc }
-In order to learn more about your duties at each department, visit [this link](https://support.bloxstreet.store/staff-information/store-jobs.html#store-departments).
-
-### How can I go off-duty and on-duty?
-{: .text-red-300 }
-{: .no_toc }
-In order to go off-duty, run the command !stopwork in the chat. In order to go back on-duty, run the command !startwork in the chat.
-
-### How can I hide my commands?
-{: .text-red-300 }
-{: .no_toc }
-In order to hide commands, run **/e (command)**. You may also utilize the command bar by pressing ’ or ; and then entering the command. 
-
-### What are the acceptable and unacceptable reasons to use admin commands?
+### Quali sono i comandi accettabili e non accettabili?
 {: .text-red-300 }
 {: .no_toc }
 In order to learn more about admin commands, we encourage you to read our [Admin Guide](https://support.bloxstreet.store/guides/admin-guide.html).
 
-### I purchased a BloxStreet product, and I am not satisfied with it. May I receive a refund?
-{: .text-red-300 }
-{: .no_toc }
-BloxStreet does not offer refunds for any purchases. Prior to purchasing any of our products, including points, in-game cash, and game passes, keep this policy in mind.
 
-### Where can I report bugs and provide suggestions? 
+### Dove posso consigliare idee / reportare un bug ecc. sul sito?
 {: .text-red-300 }
 {: .no_toc }
-In order to report bugs and provide suggestions, visit [this link](https://discord.com/channels/323081832071561216/1022266747715330099).
+Per consigliare delle idee sul sito, vai nelle discussioni di questa GitHub repository.
 
-### Where can I find the format for player reports?
+### Come faccio a consigliare idee / reportare un bug ecc. del gioco?
 {: .text-red-300 }
 {: .no_toc }
-The format for player reports can be found [here](https://support.bloxstreet.store/tickets/player-report-format.html).
+Per farlo, vai nei canali appropiate (esempio: suggestioni)
 
-### How can I create a ticket?
+### Come faccio a creare un ticket di supporto?
 {: .text-red-300 }
 {: .no_toc }
-To create a ticket, run the command **;new (reason)** in #bot-commands.
+Per creare un ticket, vai nel canale **#❗｜supporto-ticket**, per vedere i motivi accettabili di vedere un ticket vai qua.
 
-### What are the acceptable and unacceptable reasons to create a ticket?
+### Qualche sistema non funziona. Come faccio a vedere lo stato?
 {: .text-red-300 }
 {: .no_toc }
-The acceptable and unacceptable reasons to create a ticket can be found [here](https://support.bloxstreet.store/tickets/ticket-creation-reasons.html).
+Lo stato dei sistemi sara' publicato presto.
 
-### How can I update my roles in the Discord server?
-{: .text-red-300 }
-{: .no_toc }
-To update your roles in the Discord server, run the command **;getroles** in #bot-commands. If TSA is down, refrain from mass pinging SHRs, as they are more than likely already aware. 
 
-### TSA is currently not functional. Where can I find the status of all TSA services?
+### Quali sono gli staff?  
 {: .text-red-300 }
 {: .no_toc }
-The status of all TSA services can be found [here](https://status.bloxstreet.store/).
-
-### How can I get unblacklisted or unbanned?
-{: .text-red-300 }
-{: .no_toc }
-In order to be unblacklisted or unbanned, submit an appeal through [this form](https://bit.ly/blacklistbanappeals). Ensure all requirements are met before submitting the form. 
-
-### How can I get unbanned from BloxStreet’s Discord server? 
-{: .text-red-300 }
-{: .no_toc }
-In order to be unbanned from BloxStreet’s Discord server, submit an appeal through [this form](https://bit.ly/discordbanappeals). Ensure all requirements are met before submitting the form. 
-
-### How can I become an alliance of BloxStreet? 
-{: .text-red-300 }
-{: .no_toc }
-In order to potentially become an alliance of BloxStreet, fill out [this form](https://bit.ly/bloxstreetallianceapplication). Ensure all requirements are met before submitting the form. 
-
-### May I become a developer or a moderator for BloxStreet?
-{: .text-red-300 }
-{: .no_toc }
-No.
-
-### What is the Public Relations Department?
-{: .text-red-300 }
-{: .no_toc }
-The Public Relations Department handles BloxStreet's events and partnerships. [avnemone](https://www.roblox.com/users/293019760/profile) is the Lead of Public Relations, while [EclipseIcy](https://www.roblox.com/users/1247632079/profile) and [pastxlmoonlixht](https://www.roblox.com/users/393587085/profile) are Assistants of Public Relations.
-
-### What is the Staffing Department?  
-{: .text-red-300 }
-{: .no_toc }
-The Staffing Department handles reforms, human relations, and staff activity. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [ZenobiaKardashian](https://www.roblox.com/users/218713997/profile) is the Co-Lead of Staffing. [pwcifyy](https://www.roblox.com/users/376897159/profile), [arrangedlove](https://www.roblox.com/users/366227557/profile), [discentted](https://www.roblox.com/users/84690789/profile), [Ieahdelrey](https://www.roblox.com/users/128130445/profile), and [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) are Assistants of Staffing.
+I superiori sono quelli che lavorano qua per sorvegliare, maneggiare attivita ecc. [Chiara0x](https://www.roblox.com/users/1811562434/profile) e' la fondatrice, [SolaceDreams](https://www.roblox.com/users/1937756709/profile) e' l'owner, [1Fenice](https://www.roblox.com/users/10912269/profile) e' il community manager, [008apy](https://www.roblox.com/users/1398341828/profile) e' la manager, occupante dei rank, e [JonathanOnTheWay](https://www.roblox.com/users/3284442274/profile) si occupa dei sistemi del gioco, l'attivita' dello staff e i rank.
 
 
 
