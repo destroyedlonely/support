@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Admin Guide
-parent: Guides
+parent: Guide
 nav_order: 3
 ---
 
@@ -45,12 +45,7 @@ Depending on the role, certain commands can be executed. For example, users with
 {: .no_toc }
 When executing commands, ensure they are being utilized correctly. 
 
-* TSA provides the ability to hide commands by typing "/e" in front of them.
-  * To run a command privately with the "/e" method, open up the chat to run a command per usual. After doing so, place a "/e" before the desired command.
-    * EX:  **_/e :m Hello!_**
-  * This will make the command private. This also makes the command hidden from the chat.
-* The console can also be used to carry out a command. 
-  * To use the console, press ";" or "'" on your keyboard. This will prompt a GUI to appear at the top of your screen. When using the console, the prefix is **not** required. 
+ 
     * EX: ; (Console Opens) 
       
       **_exploitlogs_**
