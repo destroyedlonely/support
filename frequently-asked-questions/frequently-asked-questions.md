@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Questioni piu' chieste.
+title: Questioni piu' frequenti.
 nav_order: 3
 has_children: true
 permalink: /questioni-piu-chieste
