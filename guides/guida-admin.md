@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guida di amministrazione
-parent: Guides
+parent: Guide
 nav_order: 3
 ---
 
