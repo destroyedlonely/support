@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Questions and Answers
+title: Domande e Risposte
 parent: Questioni piu' chieste
 nav_order: 1
 ---
