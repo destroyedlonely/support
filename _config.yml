@@ -1,23 +1,19 @@
-title: BloxStreet Support
-description: A hub for all things BloxStreet
+title: Italian Entertainment
+description: Un sito per tutte le cose di Italian Entertainment
 baseurl: "/"
-url: "https://support.bloxstreet.store"
+url: "https://strainx.github.io/support"
 
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "Torna in cima"
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 aux_links:
-  "Group":
-    - "https://www.roblox.com/groups/2700627/BloxStreet-Corporation#!/about"
-  "Store":
-    - "https://www.roblox.com/games/539960592/BloxStreet-Shopping"
-  "Training Center":
-    - "https://www.roblox.com/games/624472608/Training-Center"
-  "Quiz Center":
-    - "https://www.roblox.com/games/652098479/Quiz-Center"
+  "Gruppo":
+    - "https://www.roblox.com/groups/16524350/Italian-Entertainment#!/about"
+  "Gioco":
+    - "https://www.roblox.com/games/11909019975/Italian-Universe"
 
 color_scheme: dark
 
