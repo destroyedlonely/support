@@ -40,7 +40,7 @@ Per vederlo, contatta un altro staff.
 ### Come faccio ad andare nella staff room?
 {: .text-red-300 }
 {: .no_toc }
-Per andare nella staff room, scrivi **/staffroom** in chat.
+Per andare nella staff room, scrivi **/staffzone** in chat.
 
 ### Come faccio a nascondere i miei comandi?
 {: .text-red-300 }
