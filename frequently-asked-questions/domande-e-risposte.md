@@ -5,7 +5,7 @@ parent: Questioni piu' chieste
 nav_order: 1
 ---
 
-# Questions and Answers
+# Domande e Risposte
 
 Qua, potrete trovare le domande con le risposte.
 
