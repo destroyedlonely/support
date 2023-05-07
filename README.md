@@ -1,10 +1,11 @@
-# BloxStreet Support
+# Italian Entertainment
 
-This repository holds the source of the BloxStreet support website.
+Questa repository include la open-source della pagina del supporto.
+Il template e' stato preso da [Just The Docs](https://pmarsceill.github.io/just-the-docs)
+Forkato da [BloxStreet Support](https://github.com/bloxstreet/support)
 
-## Contributing?
-When contributing, ensure that you keep the style consistent with the other pages of the website.
-- Wording should be kept short and simple, no need to overcomplicate things.
-- Introductions should go directly under the page title, without a subheading.
-- There should be no more than one # tag per page. All sub headings should use ##.
-- Unsure of the Markdown syntax? Click [here](https://pmarsceill.github.io/just-the-docs/docs/ui-components) for documentation.
+## Contribuire?
+Se vuoi contribuire, segui questi consigli:
+- Si attivo nelle topics e le issues.
+- Avere idee da dire a gli altri.
+- Discutere gentilmente.
