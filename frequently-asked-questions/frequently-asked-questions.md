@@ -3,9 +3,9 @@ layout: default
 title: Frequently Asked Questions
 nav_order: 3
 has_children: true
-permalink: /Frequently-Asked-Questions
+permalink: /questioni-piu-chieste
 ---
 
-# Frequently Asked Questions
+# Questioni piu' frequenti.
 
-Here, community members can find answers to frequently asked questions.
+Qua, la communita' potra' trovare delle domande con delle risposte.
