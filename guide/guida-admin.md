@@ -70,29 +70,6 @@ Quando fai i comandi, si sicuro di usare almeno il 50% dell'username.
 | :view / :unview | Usa questo comando per guardare qualcuno di sospetto. Non guardare i superiori. | 
 | :fly | Usa questo comando per supervisionare. | 
 
-
-
-| Acceptable Commands       |
-|:-------------|
-| _:cmds_ |
-| _:bans_           |
-| _:info_         |
-| _:pm_           |
-| _:admins_           |
-| _:chatlogs_           |
-| _:logs_           |
-| _:exploitlogs_           | 
-| _:showtools_ | 
-
-
-
-| Unacceptable Commands       |
-|:-------------|
-| :crash |
-| :h |
-| :m |
-| :sm |
-
-### Conclusion
+### Conclusione
 {: .text-red-300 }
 Hai concluso con la guida di amministrazione. Hai qualche domanda? Dilla a un superiore!
