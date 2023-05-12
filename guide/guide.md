@@ -8,4 +8,4 @@ permalink: /guide
 
 # Guide
 
-Qua, potrai trovare le info dello staff e le regole.
+Questa sezione include le guide per lo staff e gli altri.
