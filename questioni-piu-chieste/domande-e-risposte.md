@@ -50,7 +50,7 @@ Per nascondere i comandi da gli altri, metti **/e** prima del comando o premi **
 ### Quali sono i comandi accettabili e non accettabili?
 {: .text-red-300 }
 {: .no_toc }
-In order to learn more about admin commands, we encourage you to read our [Admin Guide](https://support.bloxstreet.store/guides/admin-guide.html).
+Per sapere di più del sistema dell'amministrazione, leggi la nostra [Guida di Amministrazione](https://italianentertainment.xyz/guide/guida-admin.html)
 
 
 ### Dove posso consigliare idee / reportare un bug ecc. sul sito?
