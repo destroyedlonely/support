@@ -74,10 +74,9 @@ Per creare un ticket, vai nel canale **#❗｜supporto-ticket**, per vedere i mo
 Lo stato dei sistemi sara' publicato presto.
 
 
-### Quali sono gli staff?  
+### Quali sono i superiori?
 {: .text-red-300 }
 {: .no_toc }
-I superiori sono quelli che lavorano qua per sorvegliare, maneggiare attivita ecc. [Chiara0x](https://www.roblox.com/users/1811562434/profile) e' la fondatrice, [SolaceDreams](https://www.roblox.com/users/1937756709/profile) e' l'owner, [1Fenice](https://www.roblox.com/users/10912269/profile) e' il community manager, [008apy](https://www.roblox.com/users/1398341828/profile) e' la manager, occupante dei rank, e [JonathanOnTheWay](https://www.roblox.com/users/3284442274/profile) si occupa dei sistemi del gioco, l'attivita' dello staff e i bandi.
-
+I superiori sono gli staff più alti. Si occupano di maneggiare il gruppo ecc. [Chiara0x](https://www.roblox.com/users/1811562434/profile) è la fondatrice, [SolaceDreams](https://www.roblox.com/users/1937756709/profile) è l'owner, [1Fenice](https://www.roblox.com/users/10912269/profile) è il community manager, e [JonathanOnTheWay](https://www.roblox.com/users/3284442274/profile) è il manager, si occupa dei rank, dei bandi, l'attività e lo dello staff.
 
 
